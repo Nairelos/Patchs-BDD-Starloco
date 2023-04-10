@@ -1,0 +1,9 @@
+[19 : 53 : 38] : Starting logger..
+[19 : 53 : 38] : 127.0.0.1 : test > Test > SAVE
+[19 : 58 : 26] : Starting logger..
+[19 : 58 : 26] : 127.0.0.1 : test > Test > item 758
+[19 : 58 : 28] : 127.0.0.1 : test > Test > item 758
+[19 : 58 : 28] : 127.0.0.1 : test > Test > item 758
+[19 : 58 : 29] : 127.0.0.1 : test > Test > item 758
+[19 : 59 : 20] : 127.0.0.1 : test > Test > item 311
+[19 : 59 : 28] : 127.0.0.1 : test > Test > item 311 3

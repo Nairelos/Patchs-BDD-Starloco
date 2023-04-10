@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 80031
 File Encoding         : 65001
 
-Date: 2023-04-09 10:53:08
+Date: 2023-04-10 20:28:29
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -610,18 +610,18 @@ INSERT INTO `quest_objective` VALUES ('696', '9', '323', '', '832', '', '0', '0'
 INSERT INTO `quest_objective` VALUES ('697', '1', '322', '', '831', '', '0', '0');
 INSERT INTO `quest_objective` VALUES ('698', '9', '320', '', '835', '', '0', '0');
 INSERT INTO `quest_objective` VALUES ('699', '3', '330', '2264,22', '842', '', '0', '0');
-INSERT INTO `quest_objective` VALUES ('701', '6', '329', '', '-1', '973,1', '0', '2');
-INSERT INTO `quest_objective` VALUES ('702', '6', '329', '', '-1', '982,1', '0', '0');
-INSERT INTO `quest_objective` VALUES ('703', '6', '329', '', '-1', '972,1', '0', '0');
-INSERT INTO `quest_objective` VALUES ('704', '6', '329', '', '-1', '974,1', '0', '0');
-INSERT INTO `quest_objective` VALUES ('705', '6', '329', '', '-1', '973,1', '0', '0');
-INSERT INTO `quest_objective` VALUES ('706', '6', '329', '', '-1', '973,1', '0', '0');
-INSERT INTO `quest_objective` VALUES ('707', '6', '329', '', '-1', '974,1', '0', '0');
-INSERT INTO `quest_objective` VALUES ('708', '6', '329', '', '-1', '972,1', '0', '0');
-INSERT INTO `quest_objective` VALUES ('709', '6', '329', '', '-1', '982,1', '0', '0');
-INSERT INTO `quest_objective` VALUES ('710', '6', '329', '', '-1', '974,1', '0', '0');
-INSERT INTO `quest_objective` VALUES ('711', '6', '329', '', '-1', '982,1', '0', '0');
-INSERT INTO `quest_objective` VALUES ('712', '6', '329', '', '-1', '972,1', '0', '0');
+INSERT INTO `quest_objective` VALUES ('701', '6', '329', '', '-1', '973,1', 'PG=9', '2');
+INSERT INTO `quest_objective` VALUES ('702', '6', '329', '', '-1', '982,1', 'PG=7', '2');
+INSERT INTO `quest_objective` VALUES ('703', '6', '329', '', '-1', '972,1', 'PG=3', '2');
+INSERT INTO `quest_objective` VALUES ('704', '6', '329', '', '-1', '974,1', 'PG=2', '2');
+INSERT INTO `quest_objective` VALUES ('705', '6', '329', '', '-1', '973,1', 'PG=6', '2');
+INSERT INTO `quest_objective` VALUES ('706', '6', '329', '', '-1', '973,1', 'PG=8', '2');
+INSERT INTO `quest_objective` VALUES ('707', '6', '329', '', '-1', '974,1', 'PG=5', '2');
+INSERT INTO `quest_objective` VALUES ('708', '6', '329', '', '-1', '972,1', 'PG=1', '2');
+INSERT INTO `quest_objective` VALUES ('709', '6', '329', '', '-1', '982,1', 'PG=12', '2');
+INSERT INTO `quest_objective` VALUES ('710', '6', '329', '', '-1', '972,1', 'PG=4', '2');
+INSERT INTO `quest_objective` VALUES ('711', '6', '329', '', '-1', '982,1', 'PG=11', '2');
+INSERT INTO `quest_objective` VALUES ('712', '6', '329', '', '-1', '972,1', 'PG=10', '2');
 INSERT INTO `quest_objective` VALUES ('713', '1', '329', '', '843', '', '1', '0');
 INSERT INTO `quest_objective` VALUES ('714', '3', '331', '6926,1', '844', '', '0', '0');
 INSERT INTO `quest_objective` VALUES ('715', '3', '331', '6927,1', '844', '', '0', '0');

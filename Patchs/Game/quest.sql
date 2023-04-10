@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 80031
 File Encoding         : 65001
 
-Date: 2023-04-09 10:53:12
+Date: 2023-04-10 20:28:35
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -111,7 +111,7 @@ INSERT INTO `quest` VALUES ('167', 'Titi Gobelait le magobelin ', '', '328;375;3
 INSERT INTO `quest` VALUES ('168', 'Manque de peaux', '', '330', '0', '', '', '0', '');
 INSERT INTO `quest` VALUES ('169', 'Une baguette pour Chef Bworkestre', '', '331', '0', '', '', '0', '');
 INSERT INTO `quest` VALUES ('170', 'Ange de Gobriel', '', '334', '0', '', '', '0', '');
-INSERT INTO `quest` VALUES ('172', 'Premières armes.', '701;713', '329', '843', '', '', '0', '');
+INSERT INTO `quest` VALUES ('172', 'Premières armes.', '701;702;703;704;705;706;707;708;709;710;711;712;713', '329', '843', '', '', '0', '');
 INSERT INTO `quest` VALUES ('173', 'Soyez Aouaire !', '', '332;346', '0', '', '', '0', '');
 INSERT INTO `quest` VALUES ('174', 'Instincts primaires.', '', '333', '0', '', '', '0', '');
 INSERT INTO `quest` VALUES ('175', 'Allez, au turbin.', '', '335', '0', '', '', '0', '');

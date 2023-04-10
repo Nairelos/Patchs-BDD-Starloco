@@ -1,11 +1,24 @@
 Questions : 
-3706 :
+3706 : Salut, toi aussi tu viens pour l\'aventure ?
+3707 : Il y a de plus en plus d\'aventuriers qui passent par Incarnam avant de se rendre dans la contr?e d\'Amakna.
+3708 : L?-bas, tout est neuf et tout est sauvage. La gloire et la richesse sont ? la port?e des plus t?m?raires et des plus vaillants. Je ne sais si je m?rite de m\'y rendre.
+3709 : Merci de tes conseils, tu as d?j? l\'air d\'un v?t?ran. Je vais dormir un peu afin de rendre hommage ? mon dieu. Sadida dit qu\'il faut toujours se reposer apr?s un effort intellectuel.
+3713 : Un jour je me l?verai du bon pied, et je partirai ? l\'aventure.
+3846 : 
 
 Réponses : 
-3248
+3248 : 
+3249 : 
+3250 : 
+3251 : 
+3252 : 
+3253 : 
+7696 : 
 
-Quete : 
+Quete : 183 - Bienvenue
 
 
 Q.3706 > R.3248 > Q.3707 > R.3250 > 
-			   R.3249 > 
+						   R.3249 > Q.3708 > R.3252
+											 R.3251 > Q.3709 > R.3253
+													  

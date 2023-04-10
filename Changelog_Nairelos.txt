@@ -9,3 +9,4 @@
 	[Database] • Ajout de 231 nouveaux Npc dans la table "Npc_template"
 	[Database] • Ajout des name Npc dans la table "Npc_template"
 	[Database] • Mise a jour de la table crafts rapport au fichier "crafts_fr_1140.swf"
+	[Database] • Correction d'une condition dans "npc_questions" pour le npc "Evayée Doureve"
