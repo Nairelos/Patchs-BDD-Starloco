@@ -1,0 +1,16 @@
+Questions :
+3850 : Tiens, encore une jeune âme en vadrouille sur Incarnam.
+3851 : 
+
+Réponses : 
+3388 : Place aux jeunes !
+3389 : Vous faites quoi ici ?
+3390 : 
+3391 : 
+
+Quête : 200
+
+Q.3850 > R.3388
+	 R.3389 > Q.3851 > R.3390
+			   R.3391 > Q.3852 > R.3392 
+					     R.3393
