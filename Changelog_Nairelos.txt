@@ -1,0 +1,6 @@
+[08/04/2023]
+• Correction du dialogue Npc 876 "Atapé Ganymede" pour la quête "Battre le blé"
+
+[09/04/2023]
+• Ajout de toutes les "Steps" dans la table "Quest"
+• Ajout de toutes les "Quest_step" dans la table "Quest_objective"
