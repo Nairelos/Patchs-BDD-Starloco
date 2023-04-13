@@ -1,0 +1,57 @@
+Questions : 
+
+
+3536 : Mmmm, un fid?le de Cr?. Tes talents s\'expriment ? distance. Un bon arc, une ligne de tir et tes ennemis sont vite embroch?s. Tu vas adorer ?a. Pour toi, j\'ai quelque chose de bien pr?cis.
+3537 : Ah un disciple Eniripsa ! Je suis heureux de voir que certains suivent la voie difficile de la gu?rison. Ta force ne vient pas de ta capacit? ? causer une vaste destruction parmi tes adversaires. Je vais donc te confier quelque chose dans tes cordes. Bonne chance ? toi, la voie que tu suis est extr?mement gratifiante.
+3538 : Salut ? toi ami Enutrof. Les combats ne sont pas ton fort. Quand tu auras m?ri et acquis la force de ton dieu tu seras redoutable mais d\'ici l?, voici une t?che que tu peux accomplir pour moi.
+3539 : Un Feca ! la force tranquille de la sagesse. Je respecte les talents protecteurs de ton dieu, ils sont impressionnants. Comme tu ne les ma?trises pas encore tr?s bien je te propose quelque chose qui va t\'aider ? t\'aguerrir.
+3540 : Tiens tiens, un combattant Iop. Ce n\'est pas ce qui manque ces temps-ci. A croire que la voie du guerrier soit de mode. Tant mieux, j\'ai tellement de choses pour un as du corps ? corps.
+3541 : Bonjour jeune Ecaflip. Je sais que vous autres, Ecaflip, ?tes d?sireux de partir ? l\'aventure pour tenter votre chance. Si tu aimes mettre ta vie dans la balance, j\'ai quelque chose pour toi. Es-tu pr?t ? prendre le risque ?
+3542 : Xelor, ma?tre du temps et cr?ateur du calendrier d\'Amakna. C\'est une voie difficile que celle que tu as choisie mais valorisante pour ceux qui s\'en donnent la peine. Je vais t\'aider et te donner de quoi entra?ner tes toutes r?centes capacit?s.
+3543 : Bonjour Pandawa ! Attends montre moi tes yeux ...oui, pas tr?s sobre encore, parfait. Dans cet ?tat tu seras certainement tr?s efficace dans les combats que tu vas mener. Prends une bonne hache, quelques bouteilles d\'alcool fort et va combattre.
+3544 : Ah un Sadida, un futur ma?tre de la cr?ation de cr?atures anim?es capables de grands exploits. J\'ai besoin de quelqu\'un comme toi. Utilise ta magie cr?atrice pour invoquer de puissantes marionnettes et abattre les cr?atures qui infestent la r?gion.
+3545 : Salut, tu es venu seul, jeune Osamodas ? Etrange, tes semblables se prom?nent souvent avec quantit? de cr?atures qu\'ils invoquent et contr?lent. Peu importe, ?a ira pour ce que je vais te demander. Enfin, pense ? invoquer quelques petites bestioles quand m?me.
+3546 : Salut ! Oh pardon, je ne voulais pas te blesser ... ah ah ah pardon pour cette mauvaise blague. Je sais que vous autres Sacrieur ?tes plut?t du genre ? appliquer la loi du talion ... en plus s?v?re. C\'est bien, j\'ai besoin de quelqu\'un qui est pr?t ? prendre des coups et ? en donner tout autant.
+3547 : Que les ombres te prot?gent Sram ! C\'est bien ainsi que vous vous saluez ? Il est vrai que vous pr?f?rez agir dans l\'ombre et pi?ger vos adversaires ou les leurrer de fa?on tr?s subtile. C\'est exactement une personne comme toi qu\'il me faut.
+3548 : Tu vois que ce n\'?tait pas si difficile. N\'h?site pas ? t\'entra?ner, seuls les meilleurs re?oivent les faveurs de leur dieu.
+3549 : L\'uniforme me manque. Je pourrais encore aller vadrouiller avec les camarades.
+3557 : Rien de difficile rassure-toi. Il s\'agit d\'aller nettoyer la r?gion de ses cr?atures parasites. J\'ai not? dans ton journal ce que tu dois faire. Bonne chasse.
+3634 : Pers?v?re, tu peux y arriver. Si tu veux une arme, va voir Anta Brok au sud d\'ici, elle a toujours un tas de chose ? ?changer.
+3670 : Ouh l? l?, mais tu es bien trop fort pour travailler sur Incarnam, tu devrais descendre vers Amakna. 
+
+Réponses : 
+
+3118 : 
+3119 : 
+3120 : 
+3121 : 
+3122 : 
+3123 : 
+3124 : 
+3125 : 
+3126 : 
+3127 : 
+3128 : 
+3129 : 
+3130 : 
+3131 : 
+3132 : 
+3133 : 
+3134 : 
+3135 : 
+3136 : 
+3137 : 
+3138 : 
+3139 : 
+3140 : 
+3141 : 
+3142 : 
+8747 : 
+8748 : 
+8814 : 
+8815 : 
+
+Quête : 
+Question Etape "Voir le npc" : 3548
+Question QTerminer : 3549
+Question QEnCours : 3634

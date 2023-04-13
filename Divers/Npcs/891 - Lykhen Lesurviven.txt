@@ -1,16 +1,25 @@
 Questions :
 3850 : Tiens, encore une jeune âme en vadrouille sur Incarnam.
-3851 : 
+3851 : Je me repose de mes vieilles aventures. J\'ai chass? les Bouftous, traqu? les Bworks, travers? la Mer d\'Asse, surv?cu ? la Maloria, d?fi? Dark Vlad et ...
+3852 : Une fois, j\'en d?couvris un brillant de mille feux aux tr?fonds d\'un donjon. Mes yeux ne pouvaient se d?tacher de cette vision de r?ves, jusqu\'? ce que des aventuriers le d?robent devant moi ! J\'avais rat? l\'occasion du si?cle !
+3853 : C\'est le destin, n?anmoins, je me suis tellement amus? ? en chercher un que je n\'ai pas de regret. Passer des jours et des nuits sur ce Dofus m\'a donn? l\'occasion de rencontrer des cr?atures merveilleuses, de d?couvrir des contr?es exotiques et de rencontrer de valeureux fr?res d\'armes.  Je te souhaite autant de plaisir ? parcourir le monde des douze dieux.
+3854 : Tu veux la suite de mon histoire ?
+3855 : Ah les doigts de pied en ?ventail en admirant Astrub, un vieux r?ve. Il ne me manque qu\'un Dofus ou deux ? accrocher au-dessus de la chemin?e.
 
 Réponses : 
 3388 : Place aux jeunes !
 3389 : Vous faites quoi ici ?
-3390 : 
-3391 : 
+3390 : Et je vais prendre la relève, bonne retraite.
+3391 : Et vous avez trouvé un Dofus ?
+3392 : Je me dépêche d'y aller avant qu'un autre en trouve un à ma place !
+3393 : Pas de chance !
+3394 : Merci, bonne retraite.
+3395 : Non merci.
+3396 : Oui. Que faites-vous ?
 
 Quête : 200
 
 Q.3850 > R.3388
-	 R.3389 > Q.3851 > R.3390
-			   R.3391 > Q.3852 > R.3392 
-					     R.3393
+		 R.3389 > Q.3851 > R.3390
+						   R.3391 > Q.3852 > R.3392 
+											 R.3393

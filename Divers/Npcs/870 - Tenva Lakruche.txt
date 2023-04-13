@@ -1,0 +1,19 @@
+Questions : 
+3717 : Lorsque tu partiras pour le grand monde, tu devras te nourrir pour te soigner. Les nymphes ne peuvent plus rien pour toi. Tu es trop puissant maintenant.
+3718 : Oh tu sembles ?tre une personne tr?s forte, je veux bien que tu me ram?nes de l\'eau pour mes nymphettes.
+3719 : Merci pour les nymphettes.
+3720 : Tu trouveras de l\'eau dans le puits.
+3721 : Je vais finir barrique ? force de porter toute cette eau.
+3729 : Laura est un peu trop fervente ? mon go?t, mais elle est sympathique. Assieds toi que je te conte ce mythe.
+3730 : Laura t\'a parl? du livre ? J\'ai lu ce livre quand j\'?tais sur Amakna. Ce que j\'ai dit ? Laura n\'est qu\'une version ?court?e de la version originale. Si un jour tu as la chance de trouver ce livre, n\'h?site pas ? le lire, il est ?difiant ...
+
+Réponses :
+3257 : Désolé, mais j'ai des choses plus urgentes en cours. 
+3258 : Je vais en puiser.
+3259 : C'est toujours un plaisir de les voir barboter.
+3273 : C'est toujours une bonne chose d'étendre sa culture.
+3274 : J'ai appris l'essentiel de cette histoire, je vais m'en contenter pour le moment.
+3275 : C'est toujours une bonne chose d'étendre sa culture.
+3276 : J'ai appris l'essentiel de cette histoire, je vais m'en contenter pour le moment.
+
+Quête : 185

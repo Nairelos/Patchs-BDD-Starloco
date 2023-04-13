@@ -7,16 +7,14 @@ Questions :
 3846 : 
 
 Réponses : 
-3248 : 
-3249 : 
-3250 : 
-3251 : 
-3252 : 
-3253 : 
-7696 : 
+3248 : Oui
+3249 : Je m'y rends moi-même.
+3250 : Je te laisse, j'ai hâte d'y être.
+3251 : La fortune sourit aux audacieux, toi aussi tente l'aventure !
+3252 : Moi, j'y vais sans hésiter, premier arrivé, premier servi ! A moi la fortune !
+3253 : Bon repos.
 
 Quete : 183 - Bienvenue
-
 
 Q.3706 > R.3248 > Q.3707 > R.3250 > 
 						   R.3249 > Q.3708 > R.3252
