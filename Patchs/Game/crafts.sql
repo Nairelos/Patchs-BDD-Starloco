@@ -1,3 +1,32 @@
+/*
+Navicat MySQL Data Transfer
+
+Source Server         : database
+Source Server Version : 80031
+Source Host           : localhost:3306
+Source Database       : starloco_game
+
+Target Server Type    : MYSQL
+Target Server Version : 80031
+File Encoding         : 65001
+
+Date: 2023-04-21 21:46:21
+*/
+
+SET FOREIGN_KEY_CHECKS=0;
+-- ----------------------------
+-- Table structure for `crafts`
+-- ----------------------------
+DROP TABLE IF EXISTS `crafts`;
+CREATE TABLE `crafts` (
+  `id` int NOT NULL,
+  `craft` text CHARACTER SET latin1 COLLATE latin1_swedish_ci NOT NULL,
+  UNIQUE KEY `id` (`id`) USING BTREE
+) ENGINE=MyISAM DEFAULT CHARSET=utf8mb3;
+
+-- ----------------------------
+-- Records of crafts
+-- ----------------------------
 INSERT INTO `crafts` VALUES ('39', '441*1;473*1');
 INSERT INTO `crafts` VALUES ('40', '303*2;473*2');
 INSERT INTO `crafts` VALUES ('42', '473*3;303*2');
