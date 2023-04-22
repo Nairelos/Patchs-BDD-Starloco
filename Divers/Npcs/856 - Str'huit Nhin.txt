@@ -1,0 +1,34 @@
+Questions : 
+
+3643 : J\'ai toute une th?orie concernant l\'impact de la migration des ?ponges dans la mer d\'Asse, la longueur des ?gouts d\'Astrub et sur l\'?paisseur des sourcils des Enutrofs.
+3644 : Arr?te de me faire perdre du temps en bavardant. Il se trouve ? deux pas.
+3646 : Tiens bonjour, je suis bien content de voir un nouveau visage ! Je me pr?sente, je me nomme Str\'huit. C\'est un pr?nom peu courant dans le coin. Bien que je me souvienne avoir crois?, un jour, un Sadida portant ce pr?nom. Nous n\'avons gu?re discut? mais je l\'ai trouv? tout de suite sympathique. Malheureusement, nous avons d? nous quitter car il avait une sieste ? faire. Ca me rappelle une histoire cocasse qui m\'est arriv?e pendant que je faisais la sieste, il y a fort longtemps. Voulez-vous que je vous conte cette histoire ?
+3647 : Ahhhh ! Je savais que cette histoire vous intriguerait. Bien commen?ons par le commencement. Il y a quelques ann?es de cela, je m\'aventurais dans les terres Pandawa?ennes quand je fus soudain pris d\'une violente quinte de toux. Je ne pouvais m\'arr?ter et je craignais d\'avoir attrap? une quelconque .... Et alors j\'ai d?terr? un tr?s jeune buisson de mes mains ... Je me pr?parais un plat de ....
+3648 : Oui je sais, donc je continue si vous le voulez bien. Donc apr?s toutes ces p?rip?ties, j\'ai enfin pu atteindre l\'?tal du vendeur de fruits .... Les n?gociations furent ?pres ... Plus tard, j\'arrivais ? l\'auberge qui ?tait presque vide, mais pas totalement ... Les dragodindes avan?aient lentement ... il faisait beau ce jour-l? ... l\'herbe ?tait verte ... je bus un verre d\'eau ...
+3649 : ... alors je mangeais un plat du cru qui se r?v?la ... la patronne me resservit de la bi?re ... je d?cidai de changer de v?tements ... la for?t ?tait pleine d\'arbres ... l\'homme avait un bouton sur le nez ... la princesse avait des probl?mes de tuyauterie...
+3650 : Mais je parle, je parle, et je ne vous ai m?me pas demand? ce qui vous am?ne.
+3651 : Un travail ? Non je n\'ai rien de tel ... Mais attendez, je crois que ma tante Pipelette a de temps en temps besoin de bras solides. Mais je dois vous pr?venir, elle est un peu bavarde, ? chaque fois que je la vois, nos discussions sont interminables.
+3652 : Je vous comprends, rien n\'est plus p?nible que les bavards imp?nitents. Allez plut?t parler ? mon cousin Posteur Nhin, on ne sait jamais.
+3673 : D\'ici quelques temps, toi aussi tu iras braver les hordes d?moniaques du mal?fique Rushu. Il ne doit pas devenir le treizi?me dieu, sinon, ce sera l\'apocalypse !
+
+Reponses : 
+
+3213 : Et bien c'est-à-dire que ...
+3214 : Je suis un peu pressé là ...
+3215 : Je n'ai pas le ...
+3216 : C'est très intéressant mais ...
+3217 : Zzz ... Zzz ... Zzz ...
+3218 : Hein, heu quoi ?
+3219 : En fait, je me demandais si vous aviez un travail à me confier.
+3220 : En fait rien, votre récit m'a donné envie d'aller acheter une corde.
+3221 : Argh ! je ne suis pas sûr de vouloir prendre ce risque.
+3222 : J'y vais.
+
+Q.3646 > R.3215 > Q.3647 > R.3216 > Q.3648 > R.3217 > Q.3649 > R.3218 > Q.3650 > R.3220
+																				 R.3219 > Q.3651 > R.3221 > Q.3652 > R.3222 > Donne quete : 181
+		 R.3214 > Q.3647 > R.3216 > Q.3648 > R.3217 > Q.3649 > 
+		 R.3213 > Q.3647 > R.3216 > Q.3648 > R.3217 > Q.3649 > 
+		 
+		 
+Quete en cours : Q.3644
+Quete terminer : 3673

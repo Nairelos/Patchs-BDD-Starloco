@@ -1,0 +1,11 @@
+Question :
+
+3658 : J\'ai un petit creux.
+3659 : Ah merci, j\'ai tous les ingr?dients, il ne me manquait plus que la recette. Voil? pour toi.
+3672 : Toi qui est devenu une personne comp?tente, n\'oublie pas que le jour o? tu poss?deras un Dofus, il ne faudra pas le casser. Faire des cr?pes avec des oeufs de Dofus, ce n\'est pas tr?s raisonnable.
+3683 : Ah non mon p\'tit gars, rien d\'?trange ici, on est bien ? l\'abri sur Incarnam. Ce n\'est pas le cas sur le Monde des Douze.
+
+Quete non commencer : 3658
+Quete en cours : 
+Valider l'étape : 3659
+Quete terminer : 

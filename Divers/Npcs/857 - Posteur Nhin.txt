@@ -1,0 +1,33 @@
+Questions :
+
+3653 : Elle habite juste au nord d\'ici.
+3654 : Ca ne fait pas un pli, pour ?tre recommand? par moi, il ne faut pas ?tre timbr? !
+3655 : Bonjour, puis-je vous aider ?
+3656 : J\'ai quelque chose de simple, si vous vous en sentez capable.
+3657 : Voil? une recette que vous devez porter ? ma cliente Pipelette. Elle vous paiera ? la r?ception.
+3660 : Ah je te reconnais, tu as d?j? travaill? pour moi non ? Tu tombes ? pic, j\'ai besoin d\'une personne de confiance. Peux-tu aller porter un outil ? Xelorat Masket ? C\'est assez loin et je n\'ai pas trop le temps pour le moment
+3661 : Bien ! Voil? le colis, am?ne le ? Xelorat Masket . Si tu as d?j? visit? les zaaps, tu devrais les utiliser.
+3662 : C\'est cette grande arche de pierre qui te permet d\'aller d\'un point ? un autre presque instantan?ment. \n
+3663 : Ne t\'inqui?te pas pour ?a, il t\'en faut juste un peu. Tu en trouveras sur les cr?atures que tu as battu. Plus tu vas loin, et plus il t\'en faut. Veux-tu conna?tre l\'histoire de l\'origine de ces portes magiques ?
+3664 : Alors parles-en avec Xelorat Masket parce que moi j\'ai jamais rien compris ? tout ?a !
+3671 : Tu es trop fort pour cette partie du monde des douze. Je n\'ai plus de commissions ? te confier. Tu ferais mieux de partir ? la recherche des Dofus. 
+
+Reponses : 
+
+3223 : Oui, je cherche du travail.
+3224 : Je crois que je le suis.
+3225 : Je trouverai surement un travail plus intéressant dans les environs.
+3226 : Je m'y rends de ce pas.
+3227 : Bien sûr que je peux faire ça.
+3228 : Ça aurait été avec plaisir mais je ne peux pas pour le moment.
+3229 : Un zaap ?
+3230 : Ah oui, je vois, mais ça coûte des Kamas il me semble ?
+3231 : Oui, ça m'intéresse !
+
+Level > 20 : 3671
+Quete non commencer (Papotage) : 3454
+Quete en cours (Papotage) : 3653
+Quete terminer (Papotage) : 
+
+Q.3655 > R.3223 > Q.3656 > R.3224 > Quete a jour > Q.3657 > R.3226 > donne objet 8528
+						 > R.3225
