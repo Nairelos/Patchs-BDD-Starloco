@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 80031
 File Encoding         : 65001
 
-Date: 2023-04-22 17:03:26
+Date: 2023-04-22 17:21:23
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -982,7 +982,7 @@ INSERT INTO `quest_objective` VALUES ('2793', '180],x:-33,y:-57', '1', '0', '923
 INSERT INTO `quest_objective` VALUES ('800', '854],x:5,y:1', '9', '0', '368', '854', '', '', '0', '0');
 INSERT INTO `quest_objective` VALUES ('804', '854],x:5,y:1', '9', '0', '369', '854', '', '', '0', '0');
 INSERT INTO `quest_objective` VALUES ('806', '854],x:5,y:1', '9', '0', '370', '854', '', '', '0', '0');
-INSERT INTO `quest_objective` VALUES ('468', '776,1,777,1,778,1]', '6', '0', '221', '0', '', '776,1;777,1;778,1', '0', '0');
+INSERT INTO `quest_objective` VALUES ('468', '776,1,777,1,778,1]', '6', '0', '221', '0', '', '', '0', '0');
 INSERT INTO `quest_objective` VALUES ('3241', '1007],x:-33,y:-57', '1', '0', '617', '1007', '', '', '0', '0');
 INSERT INTO `quest_objective` VALUES ('448', '725,367,2],x:2,y:-17', '3', '0', '212', '725', '367,2', '', '0', '0');
 INSERT INTO `quest_objective` VALUES ('332', '447],x:4,y:1', '1', '0', '81', '447', '', '', '0', '0');
