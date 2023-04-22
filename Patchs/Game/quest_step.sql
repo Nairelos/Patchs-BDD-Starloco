@@ -4,13 +4,13 @@ Navicat MySQL Data Transfer
 Source Server         : database
 Source Server Version : 80031
 Source Host           : localhost:3306
-Source Database       : nairelos
+Source Database       : starloco_game
 
 Target Server Type    : MYSQL
 Target Server Version : 80031
 File Encoding         : 65001
 
-Date: 2023-04-21 21:45:06
+Date: 2023-04-22 17:03:31
 */
 
 SET FOREIGN_KEY_CHECKS=0;

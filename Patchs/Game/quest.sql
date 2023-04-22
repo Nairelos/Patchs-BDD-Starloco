@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 80031
 File Encoding         : 65001
 
-Date: 2023-04-21 17:38:04
+Date: 2023-04-22 17:03:20
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -234,7 +234,7 @@ INSERT INTO `quest` VALUES ('295', 'Manière douce.', '', '515', '0', '', '', '0
 INSERT INTO `quest` VALUES ('296', 'Histoires de tortues.', '', '936;516', '0', '', '', '0', '');
 INSERT INTO `quest` VALUES ('298', 'Course-poursuite.', '', '519', '0', '', '', '0', '');
 INSERT INTO `quest` VALUES ('299', 'A la poursuite d\'Octolliard rouge.', '', '520;521;952', '0', '', '', '0', '');
-INSERT INTO `quest` VALUES ('3', 'La discorde végétale', '', '2;3;4;5;32', '0', '', '', '0', '');
+INSERT INTO `quest` VALUES ('3', 'La discorde végétale', '2;32;449;3;287;178;286;179;26;284;288;148;315;304;314', '2;3;4;5;32', '0', '', '', '0', '');
 INSERT INTO `quest` VALUES ('30', 'Retrouver Frakacia Leukocytine', '212;213', '119', '606', '', '', '0', '1:2');
 INSERT INTO `quest` VALUES ('302', 'Bandanarthrie.', '', '523;937', '0', '', '', '0', '');
 INSERT INTO `quest` VALUES ('303', 'Une Corne Edfrit sans sel.', '', '524;525', '0', '', '', '0', '');

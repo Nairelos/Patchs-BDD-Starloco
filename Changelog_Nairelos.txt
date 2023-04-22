@@ -11,6 +11,9 @@
 	[Database] • Mise a jour de la table crafts rapport au fichier "crafts_fr_1140.swf"
 	[Database] • Correction d'une condition dans "npc_questions" pour le npc "Evayée Doureve"
 	
-[21/04/2023/]
+[21/04/2023]
 	[Database] • Mise à jour de la table "quest_data" (Installer : Patchs/Game/quest_data.sql)
 	[Database] • Mise a jour de la table "quest_step" (Installer : Patchs/Game/quest_step.sql)
+	
+[22/04/2023]
+	[Database] • Mise a jour de la table "quest_objective" (Installer : Patchs/Game/quest_objective.sql)
