@@ -17,3 +17,6 @@
 	
 [22/04/2023]
 	[Database] • Mise a jour de la table "quest_objective" (Installer : Patchs/Game/quest_objective.sql)
+	
+
+	

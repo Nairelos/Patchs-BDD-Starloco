@@ -4,6 +4,7 @@ npc.gender = 1
 npc.colors = {4048569, 4048569, 4048569}
 
 ---@param p Player
+---@param answer number
 function npc:onTalk(p, answer)
 local hasAllItem = p:getItem(8077, 10) and p:getItem(8064, 10) and p:getItem(8075, 10) and p:getItem(8076, 10)
     if answer == 0 then 
@@ -31,4 +32,5 @@ local hasAllItem = p:getItem(8077, 10) and p:getItem(8064, 10) and p:getItem(807
         end
     end
 end
+
 RegisterNPCDef(npc)

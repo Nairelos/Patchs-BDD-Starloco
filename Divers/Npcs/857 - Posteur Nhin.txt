@@ -25,7 +25,7 @@ Reponses :
 3231 : Oui, ça m'intéresse !
 
 Level > 20 : 3671
-Quete non commencer (Papotage) : 3454
+Quete non commencer (Papotage) : 3654
 Quete en cours (Papotage) : 3653
 Quete terminer (Papotage) : 
 

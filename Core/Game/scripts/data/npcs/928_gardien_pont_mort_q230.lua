@@ -5,9 +5,14 @@ npc.accessories = {0, 0x228d, 0, 0, 0}
 
 local bonusPods = 500
 local coralWeight = 10
+
+---@param p Player
+---@param answer number
 local fail = function(p)
-    --TODO: Start Fight
     p:endDialog()
+    p:forceFight({-1, {
+        {1094, {5}
+    }}})
 end
 
 local questID = 230

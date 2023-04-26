@@ -2,9 +2,11 @@ local npc = Npc(983, 1073)
 
 local routes = {
     [11862] = {11866, 344},
-    [11866] = {11862, 253},
+    [11866] = {11862, 253}
 }
 
+---@param p Player
+---@param answer number
 function npc:onTalk(p, answer)
     if(answer == 0) then p:ask(4670, {4012})
     elseif(answer == 4012) then

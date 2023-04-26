@@ -1,0 +1,32 @@
+Questions :
+
+3567 : Tu sais, quand tu vois le drapeau c\'est le pays qui se tient derri?re, enfin pas derri?re le drapeau, c\'est trop petit, mais il se tient derri?re, tu vois ? Moi j\'ai besoin du drapeau, pas pour me tenir derri?re, je ne suis pas un l?che.
+3568 : C\'est simple, le drapeau c\'est un peu comme un symbole, mais en tissu, alors il faut que tu me trouves du tissu de symbole, tu vois ?
+3569 : Ce qu\'il faut pour construire un symbole bien s?r, et surtout un drapeau mais c\'est pareil, il va falloir que je couse un symbole en drapeau.
+3570 : Quand je me r?veille, parfois, je suis toujours endormi, et ?a dure longtemps. Je parle, je marche, je travaille, mais je suis endormi. Comme ?a je me repose. C\'est un talent, il n\'y a que moi qui sais faire ?a, je suis tr?s fort, je suis Jic?, je suis Aouaire, m?me endormi, tu vois ?
+3571 : Tu me rapportes de la laine et moi je vois une victoire. La laine, c\'est la victoire, tu saisis ? Et pourtant, tu me donnes la laine mais tu gardes la victoire, car la laine, c\'est la victoire mais elle ne contient pas la victoire, c\'est toi qui gardes la victoire, m?me si tu me donnes la laine, tu comprends ? Tiens, va voir Arietta Fiolle, elle t\'aidera ? te fortifier.
+3678 : Je crois au moment. S\'il n\'y a pas le moment, ? ce moment-l?, il faut arriver ? ce moment-l?, au moment qu\'on veut. Trouve le moment de trouver de la laine.
+3685 : Dans ton journal de qu?te, gratte l\'objectif. Comme l\'aimant est point? sur Arietta Fiolle, ta boussole t\'indiquera la bonne direction. Enfin quand je dis bonne, je parle aussi d\'Arietta. Elle fait tr?s bien le m?nage.
+
+Reponses :
+
+3150 : Je crois ne pas avoir très bien compris ce que vous venez de dire.
+3151 : C'est cela oui, faut pas abuser de la soupe de champ-champ mon grand.
+3152 : Vous souhaitez que je vous ramène quoi exactement ?
+3153 : Faut aller prendre vos médicaments maintenant.
+3154 : Je vais vous trouver tout ce dont vous avez besoin.
+
+Quete : 173
+Objectif : 720 et 750
+Etape : 
+Quete en cours : 3678
+Quete terminer : 3570
+Quete mise a jour : 3685
+reception de l'objectif 720 : 3571
+
+Q.3567 > R.3151 > 
+		 R.3150 > Q.3568 > R.3152 > Q.3569 > R.3154
+						   R.3153
+						   
+Objet a rapporter : 384				   
+map a visiter : 10307

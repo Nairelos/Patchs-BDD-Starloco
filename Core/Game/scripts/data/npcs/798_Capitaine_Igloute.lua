@@ -3,6 +3,7 @@ local npc = Npc(798, 30)
 npc.accessories = {0, 0x2043, 0x2042, 0, 0x1ba5}
 
 ---@param p Player
+---@param answer number
 function npc:onTalk(p, answer)
     if p:mapID() == 10155 then 
 		SandyDungeon:onTalkToGateKeeper(p, answer)
@@ -18,4 +19,5 @@ function npc:onTalk(p, answer)
 		end
 	end
 end
+
 RegisterNPCDef(npc)

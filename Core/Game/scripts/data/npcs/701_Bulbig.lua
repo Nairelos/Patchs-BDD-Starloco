@@ -1,6 +1,7 @@
 local npc = Npc(701, 1273)
 
 ---@param p Player
+---@param answer number
 function npc:onTalk(p, answer)
     if answer == 0 then 
         p:ask(2888, {2528})	
@@ -15,4 +16,5 @@ function npc:onTalk(p, answer)
 		end
 	end
 end
+
 RegisterNPCDef(npc)
