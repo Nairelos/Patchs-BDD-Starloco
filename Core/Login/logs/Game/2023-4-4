@@ -1,0 +1,111 @@
+[20 : 31 : 28] : Starting logger..
+[20 : 31 : 28] : messageReceived de 127.0.0.1 : SK601;eratz;50000
+[20 : 31 : 28] : messageSent : SKK -> 601
+[20 : 31 : 28] : messageReceived de 601 : SH127.0.0.1;5555
+[20 : 31 : 28] : messageSent : SHK -> 601
+[20 : 31 : 28] : messageReceived de 601 : SS1
+[20 : 31 : 31] : messageSent : F? -> 601
+[20 : 31 : 31] : messageReceived de 601 : F10000
+[20 : 31 : 58] : messageSent : WA1 -> 601
+[20 : 32 : 01] : messageSent : F? -> 601
+[20 : 32 : 01] : messageReceived de 601 : F9999
+[20 : 32 : 31] : messageSent : F? -> 601
+[20 : 32 : 31] : messageReceived de 601 : F9999
+[20 : 32 : 58] : messageSent : WA1 -> 601
+[20 : 33 : 01] : messageSent : F? -> 601
+[20 : 33 : 01] : messageReceived de 601 : F9999
+[20 : 33 : 31] : messageSent : F? -> 601
+[20 : 33 : 31] : messageReceived de 601 : F9999
+[20 : 33 : 53] : messageSent : WA1 -> 601
+[20 : 34 : 01] : messageSent : F? -> 601
+[20 : 34 : 01] : messageReceived de 601 : F9999
+[20 : 34 : 31] : messageSent : F? -> 601
+[20 : 34 : 31] : messageReceived de 601 : F10000
+[20 : 35 : 01] : messageSent : F? -> 601
+[20 : 35 : 01] : messageReceived de 601 : F10000
+[20 : 35 : 31] : messageSent : F? -> 601
+[20 : 35 : 31] : messageReceived de 601 : F10000
+[20 : 35 : 40] : exceptionCaught : Connection reset -> 601
+[20 : 35 : 40] : sessionClosed -> 601
+[20 : 36 : 08] : Starting logger..
+[20 : 36 : 08] : messageReceived de 127.0.0.1 : SK601;eratz;50000
+[20 : 36 : 08] : messageSent : SKK -> 601
+[20 : 36 : 08] : messageReceived de 601 : SH127.0.0.1;5555
+[20 : 36 : 08] : messageSent : SHK -> 601
+[20 : 36 : 08] : messageReceived de 601 : SS1
+[20 : 36 : 23] : messageSent : WA1 -> 601
+[20 : 36 : 31] : messageSent : F? -> 601
+[20 : 36 : 31] : messageReceived de 601 : F9999
+[20 : 37 : 01] : messageSent : F? -> 601
+[20 : 37 : 01] : messageReceived de 601 : F10000
+[20 : 37 : 31] : messageSent : F? -> 601
+[20 : 37 : 31] : messageReceived de 601 : F10000
+[20 : 38 : 01] : messageSent : F? -> 601
+[20 : 38 : 01] : messageReceived de 601 : F10000
+[20 : 38 : 31] : messageSent : F? -> 601
+[20 : 38 : 31] : messageReceived de 601 : F10000
+[20 : 39 : 01] : messageSent : F? -> 601
+[20 : 39 : 01] : messageReceived de 601 : F10000
+[20 : 39 : 08] : exceptionCaught : Connection reset -> 601
+[20 : 39 : 08] : sessionClosed -> 601
+[20 : 39 : 25] : messageReceived de 127.0.0.1 : SK601;eratz;50000
+[20 : 39 : 25] : messageSent : SKK -> 601
+[20 : 39 : 25] : messageReceived de 601 : SH127.0.0.1;5555
+[20 : 39 : 25] : messageSent : SHK -> 601
+[20 : 39 : 25] : messageReceived de 601 : SS1
+[20 : 39 : 26] : messageSent : WA1 -> 601
+[20 : 39 : 31] : messageSent : F? -> 601
+[20 : 39 : 31] : messageReceived de 601 : F10000
+[20 : 40 : 01] : messageSent : F? -> 601
+[20 : 40 : 01] : messageReceived de 601 : F10000
+[20 : 40 : 31] : messageSent : F? -> 601
+[20 : 40 : 31] : messageReceived de 601 : F10000
+[20 : 40 : 54] : exceptionCaught : Connection reset -> 601
+[20 : 40 : 54] : sessionClosed -> 601
+[20 : 41 : 02] : messageReceived de 127.0.0.1 : SK601;eratz;50000
+[20 : 41 : 02] : messageSent : SKK -> 601
+[20 : 41 : 02] : messageReceived de 601 : SH127.0.0.1;5555
+[20 : 41 : 02] : messageSent : SHK -> 601
+[20 : 41 : 02] : messageReceived de 601 : SS1
+[20 : 41 : 21] : messageSent : WA1 -> 601
+[20 : 41 : 31] : messageSent : F? -> 601
+[20 : 41 : 31] : messageReceived de 601 : F10000
+[20 : 41 : 32] : exceptionCaught : Connection reset -> 601
+[20 : 41 : 32] : sessionClosed -> 601
+[20 : 42 : 09] : Starting logger..
+[20 : 42 : 09] : messageReceived de 127.0.0.1 : SK601;eratz;50000
+[20 : 42 : 09] : messageSent : SKK -> 601
+[20 : 42 : 09] : messageReceived de 601 : SH127.0.0.1;5555
+[20 : 42 : 09] : messageSent : SHK -> 601
+[20 : 42 : 09] : messageReceived de 601 : SS1
+[20 : 42 : 13] : messageSent : WA1 -> 601
+[20 : 42 : 39] : messageSent : F? -> 601
+[20 : 42 : 39] : messageReceived de 601 : F10000
+[20 : 43 : 09] : messageSent : F? -> 601
+[20 : 43 : 09] : messageReceived de 601 : F10000
+[20 : 43 : 39] : messageSent : F? -> 601
+[20 : 43 : 39] : messageReceived de 601 : F10000
+[20 : 44 : 09] : messageSent : F? -> 601
+[20 : 44 : 09] : messageReceived de 601 : F10000
+[20 : 44 : 39] : messageSent : F? -> 601
+[20 : 44 : 39] : messageReceived de 601 : F10000
+[20 : 45 : 09] : messageSent : F? -> 601
+[20 : 45 : 09] : messageReceived de 601 : F10000
+[20 : 45 : 39] : messageSent : F? -> 601
+[20 : 45 : 39] : messageReceived de 601 : F10000
+[20 : 46 : 09] : messageSent : F? -> 601
+[20 : 46 : 09] : messageReceived de 601 : F10000
+[20 : 46 : 39] : messageSent : F? -> 601
+[20 : 46 : 39] : messageReceived de 601 : F10000
+[20 : 47 : 09] : messageSent : F? -> 601
+[20 : 47 : 09] : messageReceived de 601 : F10000
+[20 : 47 : 39] : messageSent : F? -> 601
+[20 : 47 : 39] : messageReceived de 601 : F10000
+[20 : 48 : 09] : messageSent : F? -> 601
+[20 : 48 : 09] : messageReceived de 601 : F10000
+[20 : 48 : 39] : messageSent : F? -> 601
+[20 : 48 : 39] : messageReceived de 601 : F10000
+[20 : 49 : 09] : messageSent : F? -> 601
+[20 : 49 : 09] : messageReceived de 601 : F10000
+[20 : 49 : 39] : messageSent : F? -> 601
+[20 : 49 : 39] : messageReceived de 601 : F10000

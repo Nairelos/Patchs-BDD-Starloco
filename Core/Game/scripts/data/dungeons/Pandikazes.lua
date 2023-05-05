@@ -75,7 +75,7 @@ local group9 = {
     {581, {1,2,3,4,5}},
     {579, {1,2,3,4,5}};
 	{578, {1,2,3,4,5}},
-    {578, {1,2,3,4,5}},
+    {578, {1,2,3,4,5}}
 }
 
 local mapInfos = {
@@ -93,7 +93,7 @@ local mapInfos = {
 for k,v in pairs(mapInfos) do
     local map = MAPS[k]
     if map then
-        map.onFightEnd[PVMFightType] = fightEndTeleportWinnerPlayers(v.winDest[1], v.winDest[2])
+        map.onFightEnd[PVMFightType] = fightEndTeleportWinnerPlayer(v.winDest[1], v.winDest[2])
         map.staticGroups = {
             {v.groupCell, v.group}
         }
