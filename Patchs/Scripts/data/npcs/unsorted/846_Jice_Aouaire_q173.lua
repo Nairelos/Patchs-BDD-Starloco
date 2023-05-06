@@ -26,7 +26,7 @@ npc.quests = {questID}
 ---@param answer number
 
 function npc:onTalk(p, answer)
-		local quest = QUESTS[questID]
+	local quest = QUESTS[questID]
 		
 		if quest:availableTo(p) then
 			if answer == 0 then 
@@ -39,39 +39,34 @@ function npc:onTalk(p, answer)
 			end
 			return
 		end
-			
+		--On valide l'objectif lorsque l'on donne 3 Laine de Bouftou 	
 		if quest:ongoingFor(p) then
 			if p:consumeItem(384, 3) then 
 				quest:completeObjective(p, 720) 
+				p:ask(3678)--Question a affiché quand l'objectif n'est pas encore valider
+				return
+			end
+			-- Question a affiché quand l'objectif est validé
+			p:ask(3571)
+			p:endDialog()
+			return
+		end
+		-- On reparle au npc pour que la question nous donne l'objectif 750 
+		p:ask(3685) 
+		if quest:ongoingFor(p) then
+			if p:mapID(10307) then
+				quest:completeObjective(p, 750)
 				p:ask(3678)
 				return
 			end
-			-- Ongoing quest dialog
-			p:ask(3571)
 			return
 		end
 				
-				
-				
-function npc:onTalk(p, answer)
-    if p:questAvailable(questID) and answer == 0 then
-	   p:ask(3567, {3151, 3150})
-    elseif answer == 3150 then p:ask(3668, {3152, 3153})
-	elseif answer == 3152 then p:ask(3569, {3154})
-		elseif answer == 3154 then
-        p:startQuest(questID)
-        p:endDialog()
-    elseif p:questOngoing(questID) then 
-		-- If we have the required items, complete objective
-		if p:consumeItem(384, 3) and p:completeObjective(questID, 720) then
-           p:ask(3678)
+		if quest:finishedBy(p) then
+			p:ask(3570)
 			return
 		end
-		-- Ongoing quest dialog
-		
-    elseif p:questFinished(questID) then 
-		p:ask(3570)
-    else p:endDialog() end
-end
+		p:endDialog()
+	end
 
 RegisterNPCDef(npc)
