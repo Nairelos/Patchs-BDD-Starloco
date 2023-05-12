@@ -1,0 +1,28 @@
+[19 : 36 : 18] : Starting logger..
+[19 : 36 : 18] : messageReceived de 127.0.0.1 : SK601;eratz;50000
+[19 : 36 : 18] : messageSent : SKK -> 601
+[19 : 36 : 18] : messageReceived de 601 : SH127.0.0.1;5555
+[19 : 36 : 18] : messageSent : SHK -> 601
+[19 : 36 : 18] : messageReceived de 601 : SS1
+[19 : 36 : 46] : messageSent : F? -> 601
+[19 : 36 : 46] : messageReceived de 601 : F10000
+[19 : 37 : 16] : messageSent : F? -> 601
+[19 : 37 : 16] : messageReceived de 601 : F10000
+[19 : 37 : 46] : messageSent : F? -> 601
+[19 : 37 : 46] : messageReceived de 601 : F10000
+[19 : 38 : 16] : messageSent : F? -> 601
+[19 : 38 : 16] : messageReceived de 601 : F10000
+[19 : 38 : 46] : messageSent : F? -> 601
+[19 : 38 : 46] : messageReceived de 601 : F10000
+[19 : 39 : 16] : messageSent : F? -> 601
+[19 : 39 : 16] : messageReceived de 601 : F10000
+[19 : 39 : 46] : messageSent : F? -> 601
+[19 : 39 : 46] : messageReceived de 601 : F10000
+[19 : 40 : 16] : messageSent : F? -> 601
+[19 : 40 : 16] : messageReceived de 601 : F10000
+[19 : 40 : 46] : messageSent : F? -> 601
+[19 : 40 : 46] : messageReceived de 601 : F10000
+[19 : 41 : 16] : messageSent : F? -> 601
+[19 : 41 : 16] : messageReceived de 601 : F10000
+[19 : 41 : 45] : exceptionCaught : Connection reset -> 601
+[19 : 41 : 45] : sessionClosed -> 601

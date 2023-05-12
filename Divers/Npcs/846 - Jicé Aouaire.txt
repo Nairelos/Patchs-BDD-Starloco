@@ -17,11 +17,11 @@ Reponses :
 3154 : Je vais vous trouver tout ce dont vous avez besoin.
 
 Quete : 173
-Objectif : 720 et 750
-Etape : 332
-Quete en cours : 3678
+Objectif : 720, 750
+Etape : 332, 346
+Quete en cours objectif 720: 3678
 Quete terminer : 3570
-Quete mise a jour : 3685
+Quete en cours objectif 750 : 3685
 reception de l'objectif 720 : 3571
 
 Q.3567 > R.3151 > 
